@@ -1,0 +1,51 @@
+body {
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+    color: #333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.form-control {
+    width: 60%;
+}
+
+.btn-primary {
+    margin-top: 10px;
+}
+
+.table {
+    margin-top: 30px;
+}
+
+.table th, .table td {
+    vertical-align: middle !important;
+}
+
+.preview {
+    margin-top: 30px;
+    max-width: 800px;
+}
+
+.preview img {
+    max-width: 100%;
+}
+
+.task {
+    margin-top: 30px;
+}
+
+.task h2 {
+    margin-bottom: 20px;
+}
+
+.task button {
+    margin-top: 10px;
+}
